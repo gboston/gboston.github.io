@@ -1,40 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://gboston.github.io</loc>
+        <loc>http://localhost:4000</loc>
     </url>
     
     
     <url>
-        <loc>http://gboston.github.io/mousetrap</loc>
+        <loc>http://localhost:4000/lalala</loc>
     </url>
     
     <url>
-        <loc>http://gboston.github.io/leipzig</loc>
+        <loc>http://localhost:4000/mousetrap</loc>
     </url>
     
     <url>
-        <loc>http://gboston.github.io/javascript-structure</loc>
+        <loc>http://localhost:4000/leipzig</loc>
     </url>
     
     <url>
-        <loc>http://gboston.github.io/atwood-law</loc>
+        <loc>http://localhost:4000/atwood-law</loc>
     </url>
     
     <url>
-        <loc>http://gboston.github.io/knockout</loc>
+        <loc>http://localhost:4000/knockout</loc>
     </url>
     
     <url>
-        <loc>http://gboston.github.io/afterlife</loc>
+        <loc>http://localhost:4000/afterlife</loc>
     </url>
     
     <url>
-        <loc>http://gboston.github.io/fossil</loc>
-    </url>
-    
-    <url>
-        <loc>http://gboston.github.io/first-post</loc>
+        <loc>http://localhost:4000/first-post</loc>
     </url>
     
 </urlset>

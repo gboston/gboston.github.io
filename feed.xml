@@ -2,27 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Blogging</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://gboston.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://gboston.github.io" />
-<updated>2014-01-10T22:57:38+00:00</updated>
-<id>http://gboston.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-04-11T21:36:05+01:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Glenn Bostoen</name>
-  <uri>http://gboston.github.io/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>glennbostoen84@gmail.com</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[Naughty Boy - La La La ft. Sam Smith]]></title>
+  <link>http://localhost:4000/lalala</link>
+  <id>http://localhost:4000/lalala</id>
+  <updated>2014-01-09T00:00:00-00:00</updated>
+  <published>2014-04-11T00:00:00+01:00</published>
+  
+  <author>
+    <name>Glenn Bostoen</name>
+    <uri>http://localhost:4000</uri>
+    <email>glennbostoen84@gmail.com</email>
+  </author>
+  <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/3O1_3zBUKM8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/lalala&quot;&gt;Naughty Boy - La La La ft. Sam Smith&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Mousetrap]]></title>
-  <link>http://gboston.github.io/mousetrap</link>
-  <id>http://gboston.github.io/mousetrap</id>
+  <link>http://localhost:4000/mousetrap</link>
+  <id>http://localhost:4000/mousetrap</id>
   <updated>2014-01-08T00:00:00-00:00</updated>
   <published>2014-01-10T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://gboston.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://craig.is/killing/mice&quot;&gt;Mousetrap&lt;/a&gt; is a simple library for handling keyboard shortcuts in Javascript. It works like a charm. Just include it in your Javascript and you can bind certain functions to shortcuts.&lt;/p&gt;
@@ -58,127 +76,57 @@
     &lt;span class=&quot;s1&quot;&gt;&amp;#39;b&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;b&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/mousetrap&quot;&gt;Mousetrap&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/mousetrap&quot;&gt;Mousetrap&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Balthazar - Leipzig]]></title>
-  <link>http://gboston.github.io/leipzig</link>
-  <id>http://gboston.github.io/leipzig</id>
+  <link>http://localhost:4000/leipzig</link>
+  <id>http://localhost:4000/leipzig</id>
   <updated>2014-01-09T00:00:00-00:00</updated>
   <published>2014-01-10T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://gboston.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;A new single from Balthazar called Leipzig!
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/XWPFvTurnTw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/leipzig&quot;&gt;Balthazar - Leipzig&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/leipzig&quot;&gt;Balthazar - Leipzig&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Structuring your javascript code]]></title>
-  <link>http://gboston.github.io/javascript-structure</link>
-  <id>http://gboston.github.io/javascript-structure</id>
+  <title type="html"><![CDATA[atwood's law]]></title>
+  <link>http://localhost:4000/atwood-law</link>
+  <id>http://localhost:4000/atwood-law</id>
   <updated>2014-01-10T00:00:00-00:00</updated>
   <published>2014-01-10T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://gboston.github.io</uri>
-    <email>glennbostoen84@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;The first thing you need to keep a clean structure in your javascript application, is a root application.&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;application&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// Create this closure to contain the cached modules&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;c1&quot;&gt;// Internal module cache.&lt;/span&gt;
-        &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;modules&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{};&lt;/span&gt;
-
-        &lt;span class=&quot;c1&quot;&gt;// Create a new module reference scaffold or load an&lt;/span&gt;
-        &lt;span class=&quot;c1&quot;&gt;// existing module.&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;c1&quot;&gt;// If this module has already been created, return it.&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-                &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;modules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-            &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-            &lt;span class=&quot;c1&quot;&gt;// Create a module and save it under this name&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;modules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{};&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}()&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;The application contains multiple modules that can easily be defined. This is an example of a module containing a knockout viewmodel.&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;//#region Viewmodel&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;init&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;self&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-        &lt;span class=&quot;c1&quot;&gt;//#region Initial model&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;InitModel&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;nx&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;John&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-            &lt;span class=&quot;nx&quot;&gt;LastName&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Doe&amp;#39;&lt;/span&gt;
-            &lt;span class=&quot;nx&quot;&gt;PhoneNumbers&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;+32 414 214 452&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;+32 478 262 213&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;ko&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mapping&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fromJS&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;InitModel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{},&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-        &lt;span class=&quot;c1&quot;&gt;//#endregion&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;//#endregion&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;//#region Public get view&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;//#endregion&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;//#region Initialisation&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;view&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;//#endregion    &lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;})(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;application&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Person&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;The module is then called by the following function:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;personModule&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;application&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Peron&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;//mapping the view on dom element&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;ko&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;applyBindings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;personModule&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;personDomElement&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/javascript-structure&quot;&gt;Structuring your javascript code&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Atwood's law]]></title>
-  <link>http://gboston.github.io/atwood-law</link>
-  <id>http://gboston.github.io/atwood-law</id>
-  <updated>2014-01-10T00:00:00-00:00</updated>
-  <published>2014-01-10T00:00:00+00:00</published>
-  
-  <author>
-    <name>Glenn Bostoen</name>
-    <uri>http://gboston.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;h3&gt;&amp;quot;Any application that can be written in JavaScript, will eventually be written in JavaScript&amp;quot;&lt;/h3&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/atwood-law&quot;&gt;Atwood's law&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/atwood-law&quot;&gt;atwood's law&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Knockout]]></title>
-  <link>http://gboston.github.io/knockout</link>
-  <id>http://gboston.github.io/knockout</id>
+  <link>http://localhost:4000/knockout</link>
+  <id>http://localhost:4000/knockout</id>
   <updated>2014-01-08T00:00:00-00:00</updated>
   <published>2014-01-09T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://gboston.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://knockoutjs.com/&quot;&gt;Knockout&lt;/a&gt; simplifies dynamic Javascript UIs with the Model-View-View Model (MVVM) pattern.s&lt;/p&gt;
@@ -203,65 +151,43 @@
     &lt;span class=&quot;nx&quot;&gt;ko&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mapping&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fromJS&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,{},&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/knockout&quot;&gt;Knockout&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knockout&quot;&gt;Knockout&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Arcade Fire - Afterlife]]></title>
-  <link>http://gboston.github.io/afterlife</link>
-  <id>http://gboston.github.io/afterlife</id>
+  <link>http://localhost:4000/afterlife</link>
+  <id>http://localhost:4000/afterlife</id>
   <updated>2014-01-09T00:00:00-00:00</updated>
   <published>2014-01-09T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://gboston.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/r75BFcH4u2k&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/afterlife&quot;&gt;Arcade Fire - Afterlife&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[New Fossil watch]]></title>
-  <link>http://gboston.github.io/fossil</link>
-  <id>http://gboston.github.io/fossil</id>
-  <updated>2014-01-09T00:00:00-00:00</updated>
-  <published>2013-12-26T00:00:00+00:00</published>
-  
-  <author>
-    <name>Glenn Bostoen</name>
-    <uri>http://gboston.github.io</uri>
-    <email>glennbostoen84@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;This is my new epic watch :)
-&lt;figure&gt;
-    &lt;a href=&quot;http://img.tictactime.com/prod/montres/montre-fossil/fossil-me1133_1000-montre-watch.jpg&quot;&gt;&lt;img src=&quot;http://img.tictactime.com/prod/montres/montre-fossil/fossil-me1133_1000-montre-watch.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
-    &lt;figcaption&gt;&lt;a href=&quot;http://sasy420.com/media/catalog/product/m/e/me1132_2.jpg&quot; title=&quot;Fossil nate twist stainless steel watch&quot;&gt;fossil nate twist stainless steel watch&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/fossil&quot;&gt;New Fossil watch&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on December 26, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/afterlife&quot;&gt;Arcade Fire - Afterlife&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[First blog post]]></title>
-  <link>http://gboston.github.io/first-post</link>
-  <id>http://gboston.github.io/first-post</id>
-  <updated>2013-12-26T00:00:00-00:00</updated>
-  <published>2013-12-26T00:00:00+00:00</published>
+  <link>http://localhost:4000/first-post</link>
+  <id>http://localhost:4000/first-post</id>
+  <updated>2014-01-08T00:00:00-00:00</updated>
+  <published>2014-01-08T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://gboston.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Hello blog!&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/first-post&quot;&gt;First blog post&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on December 26, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/first-post&quot;&gt;First blog post&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 08, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
