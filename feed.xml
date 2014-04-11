@@ -2,64 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Blogging</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-04-11T21:42:17+01:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://gboston.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://gboston.github.io" />
+<updated>2014-04-11T21:48:41+01:00</updated>
+<id>http://gboston.github.io/</id>
 <author>
   <name>Glenn Bostoen</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://gboston.github.io/</uri>
   <email>glennbostoen84@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Naughty Boy - La La La ft. Sam Smith]]></title>
-  <link>http://localhost:4000/lalala</link>
-  <id>http://localhost:4000/lalala</id>
+  <link>http://gboston.github.io/lalala</link>
+  <id>http://gboston.github.io/lalala</id>
   <updated>2014-01-09T00:00:00-00:00</updated>
   <published>2014-04-11T00:00:00+01:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://gboston.github.io</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/3O1_3zBUKM8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/lalala&quot;&gt;Naughty Boy - La La La ft. Sam Smith&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/lalala&quot;&gt;Naughty Boy - La La La ft. Sam Smith&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Ender's game]]></title>
-  <link>http://localhost:4000/endersgame</link>
-  <id>http://localhost:4000/endersgame</id>
+  <link>http://gboston.github.io/endersgame</link>
+  <id>http://gboston.github.io/endersgame</id>
   <updated>2014-04-11T00:00:00-00:00</updated>
   <published>2014-04-11T00:00:00+01:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://gboston.github.io</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Good movie
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/2UNWLgY-wuo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/endersgame&quot;&gt;Ender's game&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/endersgame&quot;&gt;Ender's game&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Mousetrap]]></title>
-  <link>http://localhost:4000/mousetrap</link>
-  <id>http://localhost:4000/mousetrap</id>
+  <link>http://gboston.github.io/mousetrap</link>
+  <id>http://gboston.github.io/mousetrap</id>
   <updated>2014-01-08T00:00:00-00:00</updated>
   <published>2014-01-10T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://gboston.github.io</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://craig.is/killing/mice&quot;&gt;Mousetrap&lt;/a&gt; is a simple library for handling keyboard shortcuts in Javascript. It works like a charm. Just include it in your Javascript and you can bind certain functions to shortcuts.&lt;/p&gt;
@@ -95,57 +95,57 @@
     &lt;span class=&quot;s1&quot;&gt;&amp;#39;b&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;b&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/mousetrap&quot;&gt;Mousetrap&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/mousetrap&quot;&gt;Mousetrap&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Balthazar - Leipzig]]></title>
-  <link>http://localhost:4000/leipzig</link>
-  <id>http://localhost:4000/leipzig</id>
+  <link>http://gboston.github.io/leipzig</link>
+  <id>http://gboston.github.io/leipzig</id>
   <updated>2014-01-09T00:00:00-00:00</updated>
   <published>2014-01-10T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://gboston.github.io</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;A new single from Balthazar called Leipzig!
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/XWPFvTurnTw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/leipzig&quot;&gt;Balthazar - Leipzig&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/leipzig&quot;&gt;Balthazar - Leipzig&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[atwood's law]]></title>
-  <link>http://localhost:4000/atwood-law</link>
-  <id>http://localhost:4000/atwood-law</id>
+  <link>http://gboston.github.io/atwood-law</link>
+  <id>http://gboston.github.io/atwood-law</id>
   <updated>2014-01-10T00:00:00-00:00</updated>
   <published>2014-01-10T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://gboston.github.io</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;h3&gt;&amp;quot;Any application that can be written in JavaScript, will eventually be written in JavaScript&amp;quot;&lt;/h3&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/atwood-law&quot;&gt;atwood's law&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/atwood-law&quot;&gt;atwood's law&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Knockout]]></title>
-  <link>http://localhost:4000/knockout</link>
-  <id>http://localhost:4000/knockout</id>
+  <link>http://gboston.github.io/knockout</link>
+  <id>http://gboston.github.io/knockout</id>
   <updated>2014-01-08T00:00:00-00:00</updated>
   <published>2014-01-09T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://gboston.github.io</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://knockoutjs.com/&quot;&gt;Knockout&lt;/a&gt; simplifies dynamic Javascript UIs with the Model-View-View Model (MVVM) pattern.s&lt;/p&gt;
@@ -170,43 +170,43 @@
     &lt;span class=&quot;nx&quot;&gt;ko&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mapping&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fromJS&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,{},&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/knockout&quot;&gt;Knockout&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/knockout&quot;&gt;Knockout&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Arcade Fire - Afterlife]]></title>
-  <link>http://localhost:4000/afterlife</link>
-  <id>http://localhost:4000/afterlife</id>
+  <link>http://gboston.github.io/afterlife</link>
+  <id>http://gboston.github.io/afterlife</id>
   <updated>2014-01-09T00:00:00-00:00</updated>
   <published>2014-01-09T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://gboston.github.io</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/r75BFcH4u2k&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/afterlife&quot;&gt;Arcade Fire - Afterlife&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/afterlife&quot;&gt;Arcade Fire - Afterlife&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[First blog post]]></title>
-  <link>http://localhost:4000/first-post</link>
-  <id>http://localhost:4000/first-post</id>
+  <link>http://gboston.github.io/first-post</link>
+  <id>http://gboston.github.io/first-post</id>
   <updated>2014-01-08T00:00:00-00:00</updated>
   <published>2014-01-08T00:00:00+00:00</published>
   
   <author>
     <name>Glenn Bostoen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://gboston.github.io</uri>
     <email>glennbostoen84@gmail.com</email>
   </author>
   <content type="html">&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Hello blog!&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/first-post&quot;&gt;First blog post&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blogging&lt;/a&gt; on January 08, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://gboston.github.io/first-post&quot;&gt;First blog post&lt;/a&gt; was originally published by Glenn Bostoen at &lt;a href=&quot;http://gboston.github.io&quot;&gt;Blogging&lt;/a&gt; on January 08, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
