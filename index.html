@@ -137,6 +137,20 @@
 
 <article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
   <header>
+    <div class="entry-meta"><span class="entry-date date published updated"><time datetime="2014-04-11T00:00:00+01:00" itemprop="datePublished"><a href="http://localhost:4000/endersgame">April 11, 2014</a></time></span><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="fn"><a href="http://localhost:4000/about" title="About Glenn Bostoen" itemprop="url">Glenn Bostoen</a></span></span></div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title" itemprop="name"><a href="http://localhost:4000/endersgame" rel="bookmark" title="Ender's game" itemprop="url">Ender's game</a></h1>
+    
+  </header>
+  <div class="entry-content" itemprop="description">
+    <p>Good movie
+<iframe width="560" height="315" src="//www.youtube.com/embed/2UNWLgY-wuo" frameborder="0" allowfullscreen></iframe></p>
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
+<article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
     <div class="entry-meta"><span class="entry-date date published updated"><time datetime="2014-01-10T00:00:00+00:00" itemprop="datePublished"><a href="http://localhost:4000/mousetrap">January 10, 2014</a></time></span><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="fn"><a href="http://localhost:4000/about" title="About Glenn Bostoen" itemprop="url">Glenn Bostoen</a></span></span></div><!-- /.entry-meta -->
     
       <h1 class="entry-title" itemprop="name"><a href="http://localhost:4000/mousetrap" rel="bookmark" title="Mousetrap" itemprop="url">Mousetrap</a></h1>
@@ -203,39 +217,6 @@
   <div class="entry-content" itemprop="description">
     <h3>&quot;Any application that can be written in JavaScript, will eventually be written in JavaScript&quot;</h3>
 
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
-
-<article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-  <header>
-    <div class="entry-meta"><span class="entry-date date published updated"><time datetime="2014-01-09T00:00:00+00:00" itemprop="datePublished"><a href="http://localhost:4000/knockout">January 09, 2014</a></time></span><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="fn"><a href="http://localhost:4000/about" title="About Glenn Bostoen" itemprop="url">Glenn Bostoen</a></span></span></div><!-- /.entry-meta -->
-    
-      <h1 class="entry-title" itemprop="name"><a href="http://localhost:4000/knockout" rel="bookmark" title="Knockout" itemprop="url">Knockout</a></h1>
-    
-  </header>
-  <div class="entry-content" itemprop="description">
-    <p><a href="http://knockoutjs.com/">Knockout</a> simplifies dynamic Javascript UIs with the Model-View-View Model (MVVM) pattern.s</p>
-
-<h3>Knockout the way I use it</h3>
-
-<p>Moddeling the initial model of the view with the <a href="http://knockoutjs.com/documentation/plugins-mapping.html">Mapping plugin</a>:</p>
-<div class="highlight"><pre><code class="javascript language-javascript" data-lang="javascript"><span class="k">this</span><span class="p">.</span><span class="nx">InitModel</span> <span class="o">=</span> <span class="p">{</span>
-    <span class="nx">Name</span> <span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="p">,</span>
-    <span class="nx">LastName</span> <span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="p">,</span>
-    <span class="nx">PhoneNumbers</span> <span class="o">:</span> <span class="p">[]</span>
-<span class="p">};</span>
-<span class="nx">ko</span><span class="p">.</span><span class="nx">mapping</span><span class="p">.</span><span class="nx">fromJS</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">InitModel</span><span class="p">,{},</span><span class="k">this</span><span class="p">);</span>
-</code></pre></div>
-<p>This makes it very clean and easy to define the observables and observableArray instead of this:</p>
-<div class="highlight"><pre><code class="javascript language-javascript" data-lang="javascript"><span class="nx">Name</span> <span class="o">=</span> <span class="nx">ko</span><span class="p">.</span><span class="nx">observabe</span><span class="p">(</span><span class="s1">&#39;&#39;</span><span class="p">);</span>
-<span class="nx">LastName</span> <span class="o">=</span> <span class="nx">ko</span><span class="p">.</span><span class="nx">observable</span><span class="p">(</span><span class="s1">&#39;&#39;</span><span class="p">);</span>
-<span class="nx">PhoneNumbers</span> <span class="o">=</span> <span class="nx">ko</span><span class="p">.</span><span class="nx">observableArray</span><span class="p">([]);</span>
-</code></pre></div>
-<p>The next thing we can do is load the appropriate data with an AJAX call</p>
-<div class="highlight"><pre><code class="javascript language-javascript" data-lang="javascript"><span class="nx">$</span><span class="p">.</span><span class="nx">getJSON</span><span class="p">(</span><span class="s1">&#39;url&#39;</span><span class="p">,{},</span><span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">){</span>
-    <span class="nx">ko</span><span class="p">.</span><span class="nx">mapping</span><span class="p">.</span><span class="nx">fromJS</span><span class="p">(</span><span class="nx">data</span><span class="p">,{},</span><span class="nx">view</span><span class="p">)</span>
-<span class="p">});</span>
-</code></pre></div>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 
